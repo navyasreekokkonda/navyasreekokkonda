@@ -61,12 +61,12 @@
   
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&hide_border=true" height="170em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YourGitHubUsername&theme=tokyonight&hide_border=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=navyasreekokkonda&show_icons=true&theme=tokyonight&hide_border=true" height="170em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=navyasreekokkonda&theme=tokyonight&hide_border=true" height="170em" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YourGitHubUsername&theme=tokyonight" height="200em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navyasreekokkonda&theme=tokyonight" height="200em" />
 </p>
 
 ---
